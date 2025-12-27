@@ -6,7 +6,7 @@ export default function Layout(props){
     return (
         <> 
             <header>
-                <h1 className="text-gradient">Copacetic</h1>
+                <h1 className="text-gradient">VocabsVault</h1>
             </header>
             <main>
                 {children}
